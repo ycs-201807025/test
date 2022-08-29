@@ -1,0 +1,11 @@
+#menu {
+  width: 300px;
+  height: 40px;
+  background: gray;
+  transition: .5s;
+}
+
+.hidden {
+  height: 0px !important;
+}
+

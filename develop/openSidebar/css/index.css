@@ -1,0 +1,11 @@
+#sidebar {
+  width: 250px;
+  height: 800px;
+  background-color: aquamarine;
+  transition: .5s;
+}
+
+.hidden {
+  width: 0px !important;
+}
+
